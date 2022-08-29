@@ -1,0 +1,39 @@
+Phinx by CakePHP - https://phinx.org.
+
+using config file phinx.php
+using config parser php
+using migration paths 
+ - /home/arunabraham/work/pup/test/migrate-seeder/db/migrations
+using seed paths 
+ - /home/arunabraham/work/pup/test/migrate-seeder/db/seeds
+using environment development
+using adapter sqlsrv
+using database odb_c
+
+ == ProductsSeeder: seeding
+Next Batch!!1
+Next Batch!!2
+Next Batch!!3
+Next Batch!!4
+Next Batch!!5
+Next Batch!!6
+Next Batch!!7
+Next Batch!!8
+Next Batch!!9
+Next Batch!!10
+Next Batch!!11
+Next Batch!!12
+Next Batch!!13
+Next Batch!!14
+Next Batch!!15
+Next Batch!!16
+Next Batch!!17
+Next Batch!!18
+Next Batch!!19
+Next Batch!!20
+Next Batch!!21
+Next Batch!!22
+Next Batch!!1
+ == ProductsSeeder: seeded 17.8885s
+
+All Done. Took 17.8926s

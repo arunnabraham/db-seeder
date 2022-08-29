@@ -1,0 +1,23 @@
+{
+    "name": "arunabraham/test",
+    "type": "project",
+    "license": "ISC",
+    "autoload": {
+        "psr-4": {
+            "Arunabraham\\MySQL\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arun Abraham",
+            "email": "arunnabraham@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "fakerphp/faker": "^1.20",
+        "robmorgan/phinx": "@stable",
+        "symfony/dotenv": "^6.1",
+        "symfony/yaml": "^6.1"
+    }
+}
